@@ -3,7 +3,7 @@ Supplementary Data for paper _"Fruit Surface Mapping"_, currently under review.
 
 
 [![DOI](https://zenodo.org/badge/386282468.svg)](https://zenodo.org/badge/latestdoi/386282468)
-[![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
+[![License: GPL v2](https://img.shields.io/badge/License-GPLv2-blue.svg)](https://www.gnu.org/licenses/gpl-2.0)
 
 This repository contains 
 
