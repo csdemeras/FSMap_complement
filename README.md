@@ -1,9 +1,8 @@
 # FSMap_complement
-Supplementary Data for paper _"Single Fusion Image from Collections of Fruit Views for Defect
-Detection and Classification"_.
-
 [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
 
+Supplementary Data for paper _"Single Fusion Image from Collections of Fruit Views for Defect
+Detection and Classification"_.
 
 This repository contains a compilation of views for different objects and the surface maps generated from them.
 
