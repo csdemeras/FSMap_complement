@@ -3,6 +3,8 @@
 Supplementary data for paper _"Single Fusion Image from Collections of Fruit Views for Defect
 Detection and Classification"_.
 
+The dataset for that paper can be found [here](https://github.com/csdemeras/FSMap) .
+
 This repository contains a compilation of views for different objects and the surface maps generated from them.
 
 Also, a video showing the process of map creation is added:
